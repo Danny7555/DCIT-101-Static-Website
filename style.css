@@ -1,0 +1,40 @@
+body{
+    background-image: 
+    linear-gradient(135deg,rgb(26, 18, 143), rgba(18, 205, 202, 0.42) );
+}
+
+#img1{
+    width: 100%;
+}
+#image-div{
+    width: 50%;
+    margin: auto;
+}
+h1{
+    font-family: 'Lucida handwriting';
+    padding: 0em 1em;
+    text-align: center;
+}
+#heading{
+    padding: 0em 0em;
+}
+#header1{
+    margin-top: 2em;
+    font-size: 5em;
+    text-align: left;
+}
+#header2{
+    font-size: 4em;
+    text-align: right;
+}
+
+.section{
+    width: 45%;
+    padding: 0% 4%;
+    
+}
+#about{
+    display: flex;
+    font-size: large;
+
+}
